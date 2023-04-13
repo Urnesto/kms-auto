@@ -1,6 +1,6 @@
 # kms-auto
 
-Simple database for auto service on pure php\
+Simple database for auto service on php\
 
 ## Options 
 add auto number and status
